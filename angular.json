@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "tailwind-angular"
+  "defaultProject": "tailwind-angular",
+  "cli": {
+    "analytics": "2fd96e98-0a52-4f35-92c3-f4d2ec247ab6"
+  }
 }
